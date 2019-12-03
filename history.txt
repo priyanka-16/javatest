@@ -1,0 +1,135 @@
+    1  git --version
+    2  sudo apt-get install git-core
+    3  git --version
+    4  gedit /etc/gitconfig
+    5  git config --global user.name "priyanka-16"
+    6  git config --global user.email  manwanip60@gmail.com
+    7  gedit /etc/gitconfig
+    8  ls -a
+    9  gedit .gconf
+   10  git config --global branch.autosetuprebase always
+   11  git config --global color.ui true
+   12  git config --global color.status auto
+   13  git config --global color.branch auto
+   14  git config –list
+   15  git config -list
+   16  git config --list
+   17  git init 
+   18  pwd
+   19  ls -l
+   20  gedit test1.txt
+   21  ls -a
+   22  cd .git
+   23  gedit test1.txt
+   24  ls -l
+   25  vi test1.txt
+   26  ls -l
+   27  git status
+   28  exit
+   29  git status
+   30  git add test1.txt
+   31  git commit -m  "commiting test1.txt"
+   32  git push https://github.com/priyanka-16/javatest.git
+   33  git push --set-upstream https://github.com/priyanka-16/javatest.git master
+   34  git remote add origin  https://github.com/priyanka-16/javatest.git
+   35  git pull origin master
+   36  ls -l
+   37  git push https://github.com/priyanka-16/javatest.git 
+   38  ls -l
+   39  cd .git
+   40  ls -l
+   41  vi test2.txt
+   42  ls -l
+   43  git commit -m "second file commit"
+   44  exit
+   45  ls -l
+   46  git commit -m "commiting second"
+   47  git add test2.txt
+   48  cd .git
+   49  git add test2.txt
+   50  git add -A
+   51  exit
+   52  Password123
+   53  .git
+   54  /.git
+   55  git
+   56  git status
+   57  /.git
+   58  .git
+   59  cd .git
+   60  ls
+   61  pwd
+   62  git --help
+   63  git status
+   64  status
+   65  cd ..
+   66  git status
+   67  ls
+   68  git add test2.txt
+   69  cd .git
+   70  ls
+   71  rm test1.txt
+   72  rm test2.txt
+   73  ls
+   74  cd ..
+   75  ls
+   76  vi test2.txt
+   77  git add test2.txt
+   78  ls
+   79  git commit -m "commiting second file"
+   80  git push https://github.com/priyanka-16/javatest.git
+   81  mkdir pri
+   82  cd pri
+   83  gedit test3.txt
+   84  vi test3.txt
+   85  git init
+   86  git status
+   87  git add test3.txt
+   88  git commit
+   89  git push https://github.com/priyanka-16/javatest.git
+   90  git remote add origin https://github.com/priyanka-16/javatest.git
+   91  git pull origin master
+   92  ls -l
+   93  git push test3.txt
+   94  git push https://github.com/priyanka-16/javatest.git
+   95  ls -l
+   96  git add test3.txt
+   97  git commit -m "3rd fille"
+   98  git push https://github.com/priyanka-16/javatest.git
+   99  git branch branch1
+  100  git checkout branch1
+  101  git commit
+  102  git add test3.txt
+  103  git commit -m "adding in branch1"
+  104  git branch branch1
+  105  git checkout branch1
+  106  git commit
+  107  ls
+  108  git add test3.txt
+  109  git commit -m "adding in branch1"
+  110  git push https://github.com/priyanka-16/javatest.git
+  111  ls
+  112  vi test4.txt
+  113  git add test4.txt
+  114  git push https://github.com/priyanka-16/javatest.git
+  115  ls
+  116  clear
+  117  ls
+  118  git add test4.txt
+  119  git branch branch2
+  120  git checkout branch2
+  121  git commit
+  122  git push https://github.com/priyanka-16/javatest.git
+  123  status
+  124  git status
+  125  cd .git
+  126  git status
+  127  cd ..
+  128  ls
+  129  git status
+  130  git --help
+  131  cd ..
+  132  git status'
+  133  git status
+  134  history
+  135  history >>history.txt
