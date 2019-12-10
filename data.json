@@ -1,0 +1,67 @@
+[
+    {
+        "itemname":"pen",
+        "price":"20",
+        "category":"stationary"
+
+    }
+    {
+        "itemname":"pencil",
+        "price":"10",
+        "category":"stationary"
+    }
+    
+    {
+        "itemname":"notebook",
+        "price":"30",
+        "category":"stationary"
+    }
+    
+    {
+        "itemname":"folder-file",
+        "price":"50",
+        "category":"stationary"
+    }
+    
+    {
+        "itemname":"pack-folder",
+        "price":"100",
+        "category":"stationary"
+    }
+    
+    {
+        "itemname":"resume-file",
+        "price":"200",
+        "category":"stationary"
+    }
+    
+    {
+        "itemname":"eraser",
+        "price":"5",
+        "category":"stationary"
+    }
+    
+    {
+        "itemname":"sharpener",
+        "price":"5",
+        "category":"stationary"
+    }
+    
+    {
+        "itemname":"ball-pen",
+        "price":"20",
+        "category":"stationary"
+    }
+    
+    {
+        "itemname":"gel-pen",
+        "price":"30",
+        "category":"stationary"
+    }
+    
+    {
+        "itemname":"Register",
+        "price":"30",
+        "category":"stationary"
+    }
+]
